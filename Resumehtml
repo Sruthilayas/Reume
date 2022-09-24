@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>CV</title>
+
+    </head>
+
+    <body>
+        <centre>
+            <h1><u>MY RESUME</u></h1>
+        </centre>
+        <br />
+        <h2>SRUTHILAYA S</h2>
+        <h4><a href="sruthilaya.s.2019.ece@rajalakshmi.edu.in">sruthilaya.s.2019.ece@rajalakshmi.edu.in</a></h4>
+        <h4><a href ="https:www class="linkedin com"insruthilaya-s-3504281b3/sruthilaya-s-3504281b3">https:www class="linkedin com"insruthilaya-s-3504281b3/sruthilaya-s-3504281b3</a></h4>
+        <h4>24-06-2002</h4>
+        <h4>RAJALAKSHMI ENGINEERING COLLEGE(2019-2013)</h4>
+        <br/>
+        <hr/>
+        <h3>
+            <p>SKILLS</p>
+            <h2>
+            <p>
+                <ol>
+                    <li>Java</li>
+                    <li>HTML</li>
+                    <li>Project Management</li>
+                    <li>Problem Solving</li>
+
+                </ol>
+            </p>
+
+
+
+            </h2>
+        </h3>
+        <h3>
+            <p>HOBBIES</p>
+            <h2>
+            <p>
+                <ul>
+                    <li>Reading Books</li>
+                    <li>Coin Collection</li>
+
+                </ul>
+            </p>
+
+
+
+            </h2>
+        </h3>
+
+        <h3>
+            <p>INTERESTS</p>
+            <h2>
+            <p>
+                <ul>
+                    <li>Networking</li>
+                    <li>Web Development</li>
+
+                </ul>
+            </p>
+
+
+
+            </h2>
+        </h3>
+    <hr/>
+
+
+    <table>
+        <h2>
+            <tr>
+                <th><b>S.NO</b></th>
+                <th><b>GRADE</b></th>
+                <th><b>INSTITUTION</b></th>
+                <th><b>PERCENTAGE</b></th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>10<sup>th</sup></td>
+                <td>National Matric Higher Secondary School</td>
+                <td>96.4</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>12<sup>th</sup></td>
+                <td>VidhyaLakshmi Matric Higher Secondary School</td>
+                <td>88.8</td>
+            
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>B.E-E.C.E</td>
+                <td>Rajalakshmi Engineering College</td>
+                <td>85.8</td>
+            
+            </tr>
+        </h2>
+
+
+    </table>
+
+        
+            
+
+     
+        
+        
+        
+    </body>
+</html>
